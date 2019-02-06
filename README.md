@@ -21,6 +21,9 @@ Python Jupyter Notebook implementation is [here] ()
 * Finally, you will explore the chosen model and its predictions under the hood, to see just how well it's performing when considering the data it's given.
 
 ## Project Evaluation
-
+Project is submitted for the evaluation. This section will be updated once evaluation completed.
 
 ## Files Submitted
+
+* The finding_donors.ipynb notebook file with all questions answered and all code cells executed and displaying output.
+* An HTML export of the project notebook with the name report.html. This file must be present for your project to be evaluated.
